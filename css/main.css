@@ -33,4 +33,7 @@
 
 .main {
 	width: 62.5vw;
+	border: 1px solid red;
+	height: 90vh;
+	margin: 0 auto;
 }
