@@ -17,7 +17,7 @@
 .header-logo {
 	height: 1.71875vw;
 	width: 10.885417vw;
-	background-color: black;
+	background-color: pink;
 	margin: 1.171875vw 0vw;
 }
 
@@ -33,7 +33,7 @@
 
 .main {
 	width: 62.5vw;
-	border: 1px solid red;
+	border: 0.999994px solid red;
 	height: 90vh;
 	margin: 0 auto;
 }
