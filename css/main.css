@@ -1,0 +1,36 @@
+@import url('rest.css');
+.hearder {
+	/* background-color: #128EEA; */
+	background-color: ghostwhite;
+	height: 4.0625vw;
+	width: 100%;
+}
+
+.header-content {
+	width: 62.5vw;
+	height: 100%;
+	/* background-color: red; */
+	margin: 0 auto;
+	display: flex
+}
+
+.header-logo {
+	height: 1.71875vw;
+	width: 10.885417vw;
+	background-color: black;
+	margin: 1.171875vw 0vw;
+}
+
+.header-menu1, .header-menu2, .header-menu3, .header-menu {
+	height: 1.458333vw;
+	font-size: 1.041667vw;
+	font-family: PingFangSC-Regular;
+	font-weight: 400;
+	color: rgba(255, 255, 255, 1);
+	line-height: 1.458333vw;
+	margin: 1.302083vw;
+}
+
+.main {
+	width: 62.5vw;
+}
